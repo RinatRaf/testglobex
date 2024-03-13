@@ -1,0 +1,36 @@
+:root {
+  font-family: "Proxima Nova", sans-serif;;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  font-size: 14px;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 125%;
+  color: #262c40;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}

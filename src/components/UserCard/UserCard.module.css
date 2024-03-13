@@ -1,0 +1,25 @@
+.userCard {
+    width: 357px;
+    min-height: 314px;
+    margin-bottom: 25px;
+    border-radius: 16px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
+    background: #fff;
+    text-align: left;
+    padding-left: 24px;  
+}
+
+
+.info{
+    display: flex;    
+    color: #8189a3;
+    margin-bottom: 12px;    
+}
+
+.info>img {
+    margin-right: 14px;
+}
+
+.info>a {
+    color: #8189a3;
+}
